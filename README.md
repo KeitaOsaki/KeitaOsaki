@@ -3,7 +3,7 @@
 
 # Hackson Achievement
 -  U-22プログラミングコンテスト2021Certificate
--  ハックツハッカソン~ブラキオカップ~　最優秀賞
+-  ハックツハッカソンブラキオカップ最優秀賞
 
 # Products
 ## Focus Box
