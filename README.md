@@ -14,6 +14,9 @@
 オンラインAR名刺アプリ。
 - [PV](https://youtu.be/aTRJutAX4OU)
 
+## Funcy（開発中）
+大学専用ポートフォリオ
+- [server](https://github.com/Funcy-ICT/Funcy_Portfolio_Backend/tree/develop/app)
 
 # Git status
 <a href="https://github.com/anuraghazra/github-readme-stats">
