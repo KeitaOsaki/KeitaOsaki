@@ -1,5 +1,10 @@
 # About me
--　water🥛 
+- water🥛 
+
+# SNS
+- [Twitter](https://twitter.com/BaseKeita)
+- [ブログ](https://zain05.hatenablog.com)
+- [wantedly](https://www.wantedly.com/id/BaseKeita) 
 
 # Hackson Achievement
 -  U-22プログラミングコンテスト2021Certificate
@@ -16,7 +21,7 @@
 
 ## Funcy（開発中）
 大学専用ポートフォリオ
-- [server](https://github.com/Funcy-ICT/Funcy_Portfolio_Backend/tree/develop/app)
+- [server](https://github.com/Funcy-ICT/Funcy_Portfolio_Backend)
 
 # Git status
 <a href="https://github.com/anuraghazra/github-readme-stats">
