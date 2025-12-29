@@ -13,7 +13,7 @@
 </a>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/WHN1ZYT" target="_blank" rel="noopener noreferrer"><img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.45&b=3.36&i=3.39&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="320" ></a></p>
+<p ><a href="https://lapras.com/public/WHN1ZYT" target="_blank" rel="noopener noreferrer"><img alt="Score of {SHARE_ID} on LAPRAS" src="https://lapras-card-generator.vercel.app/api/svg?e=3.44&b=3.36&i=3.4&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="320" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KeitaOsaki&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
